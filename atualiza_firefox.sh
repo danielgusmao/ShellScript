@@ -10,7 +10,7 @@ rm -rf /usr/share/applications/firefox.desktop
 # Download
 echo "Download" 
 
-#wget "https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=pt-BR" -O firefox.tar.bz2
+wget "https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=pt-BR" -O firefox.tar.bz2
 clear
 
 #Descompactar
